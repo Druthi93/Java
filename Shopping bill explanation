@@ -1,0 +1,6 @@
+A Mini Project on printing shopping bill
+*In this we first display the items and cost
+*And after entering the code of the product or ID of the product
+*We can select number of quantities we need can be entered 
+*If you want to continue the shopping click y else click n
+*After entering n means no the bill will be printed
